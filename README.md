@@ -1,7 +1,5 @@
 # Hi there, I'm Ahmed Bishr 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Ahmed-Cortex&style=flat-square)
-
 ## 🤖 Aspiring AI Engineer & Researcher
 
 I am currently a Master's student in Computer Science (Artificial Intelligence & Machine Learning) at the Arab Academy for Science, Technology & Maritime Transport.
