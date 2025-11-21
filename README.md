@@ -1,17 +1,44 @@
-# Hi there 👋, I'm Ahmed Bishr
+#Hi there, I'm Ahmed Bishr 👋
 
+🤖 Aspiring AI Engineer & Researcher
 
-## 🚀 About Me
+I am currently a Master's student in Artificial Intelligence & Machine Learning at the Arab Academy for Science, Technology & Maritime Transport.
 
-I'm a passionate software developer with 1.5 years of experience in cross multiplatform (CMP) development, and currently a Master's student in Artificial Intelligence & Machine Learning. My skills span AI, cross-platform development, automation, math, and open source. I love creating and sharing solutions that push technology forward!
+While I have a background in software development, my true passion lies in the mathematical foundations of Deep Learning and the potential of AI to solve complex problems. I am currently transitioning my focus entirely to Data Science, Computer Vision, and Neural Networks.
 
-My ultimate goal is to become a Fullstack AI Engineer, mastering everything from training AI models to managing infrastructure and delivering end-to-end products.
+I believe that the best way to master AI is to understand the "why" behind the equations, not just the "how" of the code.
 
-> ⚡ _P.S. Most of my best wizardry happens in private repos... so if my contribution graph looks quiet, just know I’m secretly busy building cool things behind the scenes! 🤫_
+🔭 Future Vision & Goals
 
-- 🌱 Currently studying: Deep Learning, PyTorch, advanced mathematics for ML, and modern AI tools
-- 👯 Looking to collaborate on: Open source, cross-platform projects, and AI/ML initiatives
-- 💬 Ask me about: Python, Java, Kotlin, C, cross-platform apps, AI, ML, PyTorch, math for ML, CMP development, automation, or contributing to open source!
+My ultimate goal is to become a Fullstack AI Engineer—someone who can not only design and train complex models but also deploy them efficiently into production environments.
+
+Short-term Goal: Master the mathematical underpinnings of Deep Learning (Calculus, Linear Algebra, Probability) and become proficient in PyTorch.
+
+Mid-term Goal: Contribute to open-source ML libraries and publish research in the field of Computer Vision or NLP.
+
+Long-term Vision: To build end-to-end intelligent systems that are scalable, ethical, and impactful.
+
+🧠 "I am still learning, exploring, and breaking things. This profile is a documentation of my journey from code to cognition."
+
+🌱 Current Learning Focus
+
+I am dedicating my time to bridging the gap between theory and practice:
+
+Deep Learning: Implementing papers from scratch to understand architecture nuances.
+
+Mathematics: Diving deep into optimization algorithms and statistical learning theory.
+
+Frameworks: Moving from "using" libraries to "understanding" their internal mechanics (specifically PyTorch).
+
+🛠️ Tech Stack & Tools
+
+Core AI & ML
+
+Data Science & Math
+
+Engineering Foundation
+( Leveraging my dev background to build better ML pipelines )
+
 
 ## 💻 Tech Stack
 
@@ -36,7 +63,6 @@ My ultimate goal is to become a Fullstack AI Engineer, mastering everything from
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ahmed-bishr-3bb0ab1ab)
-[![💜 Yahoo Mail](https://img.shields.io/badge/Yahoo_Mail-6001D2?logo=yahoo&logoColor=white&style=flat-square)](mailto:bishrahmed845@yahoo.com)
 
 
 
