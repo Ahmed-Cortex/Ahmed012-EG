@@ -4,7 +4,7 @@
 
 ## 🤖 Aspiring AI Engineer & Researcher
 
-I am currently a Master's student in Artificial Intelligence & Machine Learning at the Arab Academy for Science, Technology & Maritime Transport.
+I am currently a Master's student in Computer Science (Artificial Intelligence & Machine Learning) at the Arab Academy for Science, Technology & Maritime Transport.
 
 While I have a background in software development, my true passion lies in the mathematical foundations of Deep Learning and the potential of AI to solve complex problems. I am transitioning my focus to Data Science, Computer Vision, and Neural Networks.
 
