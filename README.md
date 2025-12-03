@@ -90,15 +90,4 @@ I believe the best way to master AI is to understand the "why" behind the equati
 
 ---
 
-## 🏆 GitHub Stats
-
-![Ahmed Bishr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Cortex&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Cortex&layout=compact&theme=radical&hide_border=true)
-
-## 🔥 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Cortex&theme=tokyonight&hide_border=true)
-
----
-
 Let's connect and build cutting-edge tech together!
